@@ -5,6 +5,6 @@
 
 # Languages 🖥️
 
-<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt='JS' height='50'>
+> <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' alt='JS' height='50'>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=flu3nc3)](https://github.com/flu3nc3)
