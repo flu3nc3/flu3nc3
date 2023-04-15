@@ -1,7 +1,7 @@
 # Hello 👋
 
-### I'm Fluence, a frenchie who know nothing at code.
-### When I have nothing to do, I start making projects.
+> ### I'm Fluence, a frenchie who know nothing at code.
+> ### When I have nothing to do, I start making projects.
 
 # Languages 🖥️
 
