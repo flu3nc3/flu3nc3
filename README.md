@@ -11,8 +11,8 @@
 
 > <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png' alt="C++" height='50'>
 
-# Projets in work 
+# Projets in work 🌐
 
-> <a href="https://ilovemonster.neocities.org/">My website</a>
+> ### <a href="https://ilovemonster.neocities.org/">My website</a>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=flu3nc3)](https://github.com/flu3nc3)
